@@ -4,7 +4,15 @@ from fastapi.middleware.cors import CORSMiddleware
 from thefuzz import fuzz
 import datetime
 import re
+import os
 
+STORAGE_DIR = "/mnt/data" if os.path.exists("/mnt/data") else "./local_data"
+CHAT_FILE = os.path.join(STORAGE_DIR, "chat_history.txt")
+
+if not os.path.exists(STORAGE_DIR):
+    os.makedirs(STORAGE_DIR)
+
+    
 app = FastAPI()
 
 app.add_middleware(
