@@ -1,0 +1,440 @@
+[2026-06-11 11:52:53] User: Buat bot  | AI: Kami menyediakan solusi otomatisasi untuk membantu meningkatkan efisiensi bisnis Anda.
+[2026-06-11 11:56:08] User: Buat bot  | AI: Bot untuk apa? chatbot (telegram atau platform lain) 
+[2026-06-11 11:57:46] User: bot | AI: Bot untuk apa? chatbot untuk bisnis (telegram atau platform lain), atau bot lainya? 
+[2026-06-11 11:58:54] User: kontak | AI: Silakan hubungi Artup Studio melalui WhatsApp: 0813-2834-3908 atau Email: p1998mr@gmail.com.
+[2026-06-11 12:03:20] User: landing | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page (Harga mulai 1jt)
+2. Toko Online (Harga mulai 3.5jt)
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:03:24] User: landing | AI: Landing Page dipilih (Harga mulai Rp100.000 -550.000). Apakah Anda ingin lanjut ke pembayaran?
+[2026-06-11 12:13:58] User: bot tele | AI: Bot untuk apa? chatbot untuk otomatisasi bisnis (telegram atau platform lain), atau bot lainya? 
+[2026-06-11 12:14:06] User: bot telegram | AI: Bot untuk apa? chatbot untuk otomatisasi bisnis (telegram atau platform lain), atau bot lainya? 
+[2026-06-11 12:14:14] User: jasa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page (Harga mulai 1jt)
+2. Toko Online (Harga mulai 3.5jt)
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:14:22] User: bot tele | AI: Bot untuk apa? chatbot untuk otomatisasi bisnis (telegram atau platform lain), atau bot lainya? 
+[2026-06-11 12:19:27] User: Buat bot  | AI: Bot untuk apa? chatbot untuk otomatisasi bisnis (telegram atau platform lain), atau bot lainya? 
+[2026-06-11 12:19:36] User: chatbot | AI: Bot untuk apa? chatbot untuk otomatisasi bisnis (telegram atau platform lain), atau bot lainya? 
+[2026-06-11 12:20:28] User: Buat bot  | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:20:34] User: telegra | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 12:20:37] User: bot | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:20:43] User: bot telegram | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:21:29] User: Buat website modern | AI: Kami punya beberapa pilihan jasa:
+Landing Page
+Toko Online
+Bot Chat Telegram
+Bot Otomatisasi
+Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:21:36] User: landing | AI: Landing Page  (Harga mulai Rp 100.000 - Rp 550.000). Apakah Anda berminat?
+[2026-06-11 12:21:41] User: ya | AI: Kami punya beberapa pilihan jasa:
+Landing Page
+Toko Online
+Bot Chat Telegram
+Bot Otomatisasi
+Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:21:50] User: iya | AI: Untuk website sederhana harga mulai dari Rp200.000. Harga akhir menyesuaikan fitur dan kebutuhan proyek.
+[2026-06-11 12:21:54] User: iya | AI: Untuk website sederhana harga mulai dari Rp200.000. Harga akhir menyesuaikan fitur dan kebutuhan proyek.
+[2026-06-11 12:24:51] User: Buat bot  | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:24:57] User: telegran | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 12:26:10] User: Buat bot  | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:26:14] User: tele | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 12:26:16] User: jasa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:26:25] User: toko | AI: Toko Online dipilih (Harga mulai Rp 200.000 - Rp tergantung fungsi). Apakah Anda berminat lanjut ke pembayaran?
+[2026-06-11 12:26:29] User: ya | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:26:35] User: bot tele | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:26:39] User: y | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:26:48] User: bot chat tele | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:26:52] User: y | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:26:57] User: Bot Chat Telegram | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 12:27:06] User: bot telegram | AI: Bot Chat Telegram dipilih (Harga mulai Rp 50.000 - Rp tergantung fungsi). Apakah Anda berminat lanjut ke pembayaran?
+[2026-06-11 12:27:23] User: iya | AI: Terima kasih! Pesanan untuk Bot Chat Telegram sudah dicatat. Silahkan hubungi kami di WA: 0813-2834-3908 untuk konfirmasi pembayaran.
+[2026-06-11 12:28:02] User: u | AI: Hallo! Kami adalah Artup Studio, studio kreatif yang fokus pada pengembangan website modern, UI/UX Design, sistem digital, dan solusi otomatisasi.
+[2026-06-11 12:28:05] User: y | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:28:13] User: Bot Otomatisasi | AI: Bot Otomatisasi dipilih (Harga mulai Rp 50.000 - Rp tergantung fungsi). Apakah Anda berminat lanjut ke pembayaran?
+[2026-06-11 12:28:17] User: ya | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:31:32] User: Buat website modern | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:32:23] User: halo | AI: Hallo! Kami adalah Artup Studio, studio kreatif yang fokus pada pengembangan website modern, UI/UX Design, sistem digital, dan solusi otomatisasi.
+[2026-06-11 12:32:36] User: apa yang kamu jual | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Toko Online
+3. Bot Chat Telegram
+4. Bot Otomatisasi
+5. Diskusi Kebutuhan
+
+Mana yang ingin Anda buat?
+[2026-06-11 12:35:46] User: hao | AI: Hallo! Kami adalah Artup Studio, studio kreatif yang fokus pada pengembangan website modern, UI/UX Design, sistem digital, dan solusi otomatisasi.
+[2026-06-11 12:36:00] User: Buat website modern | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Website
+3. Toko Online
+4. Bot Chat Telegram
+5. Bot Otomatisasi
+6. Diskusi Kebutuhan digital
+</br>
+Mana yang ingin Anda buat?
+[2026-06-11 12:36:45] User: Jasa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+2. Website
+3. Toko Online
+4. Bot Chat Telegram
+5. Bot Otomatisasi
+6. Diskusi Kebutuhan digital
+</br>
+Mana yang ingin Anda buat?
+[2026-06-11 12:37:49] User: Jasa apa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 12:38:24] User: 1 | AI: Landing Page dipilih (Harga mulai Rp 100.000 - Rp 550.000). Apakah Anda berminat lanjut ke pembayaran?
+[2026-06-11 12:38:32] User: iya | AI: Terima kasih! Pesanan untuk Landing Page sudah dicatat. Silahkan hubungi kami di WA: 0813-2834-3908 untuk konfirmasi pembayaran.
+[2026-06-11 12:39:11] User: ya | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 12:39:23] User: kamu lagi aapa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 12:39:46] User: kontak | AI: Silakan hubungi Artup Studio melalui WhatsApp: 0813-2834-3908 atau Email: p1998mr@gmail.com.
+[2026-06-11 12:40:50] User: penting kontak developer! | AI: Silakan hubungi Artup Studio melalui WhatsApp: 0813-2834-3908 atau Email: p1998mr@gmail.com.
+[2026-06-11 12:41:07] User: halo | AI: Hallo! Kami adalah Artup Studio, studio kreatif yang fokus pada pengembangan website modern, UI/UX Design, sistem digital, dan solusi otomatisasi.
+[2026-06-11 12:42:08] User: ya | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 12:42:18] User: 2 | AI: pembuatan web dipilih (Harga mulai Rp 200.000 - Rp tergantung fungsi). Apakah Anda berminat lanjut ke pembayaran?
+[2026-06-11 12:42:26] User: ya | AI: Terima kasih! Pesanan untuk Toko Online sudah dicatat. Silahkan hubungi kami di WA: 0813-2834-3908 untuk konfirmasi desain, fungsi dan pembayaran.
+[2026-06-11 12:42:38] User: siapa nama mu | AI: Hallo! Kami adalah Artup Studio, studio kreatif yang fokus pada pengembangan website modern, sistem digital, dan solusi otomatisasi. perlu jasa kami?
+[2026-06-11 12:43:14] User: kerja sama | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 12:43:18] User: kerja sama | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 12:43:25] User: persan | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 12:43:33] User: pesan | AI: Tentu. Silakan informasikan: 1. Jenis website, 2. Nama usaha, 3. Fitur, 4. Budget, 5. Deadline.
+[2026-06-11 12:43:53] User: 1 | AI: Landing Page dipilih (Harga mulai Rp 100.000 - Rp 550.000). Apakah Anda berminat lanjut ke pembayaran?
+[2026-06-11 12:44:00] User: 2 | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 12:44:03] User: y | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 12:44:07] User: pesan | AI: Tentu. Silakan informasikan: 1. Jenis website, 2. Nama usaha, 3. Fitur, 4. Budget, 5. Deadline.
+[2026-06-11 12:44:17] User: Nama usaha | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 12:47:22] User: kamu lagi apa | AI: Hallo! aku adalah mio, asisten virtual dari Artup Studio. Kami adalah studio kreatif yang fokus pada pengembangan website modern, sistem digital, dan solusi otomatisasi. perlu jasa kami?
+[2026-06-11 12:48:59] User: hi | AI: Halo juga! Ada yang bisa Mio bantu hari ini di Artup Studio?
+[2026-06-11 12:49:09] User: aku suka kamu | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 12:49:17] User: salam | AI: Halo juga! Ada yang bisa Mio bantu hari ini di Artup Studio?
+[2026-06-11 12:49:29] User: tentang mio | AI: Kami adalah Artup Studio, studio kreatif yang fokus pada pengembangan website modern, UI/UX Design, sistem digital, dan solusi otomatisasi.
+[2026-06-11 12:49:38] User: status | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 12:49:50] User: kamu lagi apa | AI: Aku lagi standby nih, siap membantu memproses ide project digitalmu! Ada yang bisa aku bantu?
+[2026-06-11 12:50:02] User: siapa nama mu | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 12:57:01] User: Jasa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:10:50] User: hai | AI: Halo juga! Ada yang bisa Mio bantu hari ini di Artup Studio?
+[2026-06-11 13:11:08] User: siapa kamu | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 13:11:33] User: nama mu? | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 13:11:46] User: lagi apa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:11:55] User: lagi apa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:12:23] User: lagi apa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:12:33] User: kamu lagi apa | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 13:12:55] User: sedang apa | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 13:13:06] User: hi | AI: Halo juga! Ada yang bisa Mio bantu hari ini di Artup Studio?
+[2026-06-11 13:13:38] User: gimana kabar | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 13:13:50] User: kamu robot? | AI: Bot untuk apa? bot telegram atau bot otomatisasi? 
+[2026-06-11 13:17:12] User: namamu | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 13:17:18] User: jomblo? | AI: hati ku udah di miliki artup seorang mohon jangan ganggu
+[2026-06-11 13:17:58] User: lagi apa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:18:15] User: lagi apa | AI: hati ku udah di miliki artup seorang mohon jangan ganggu
+[2026-06-11 13:18:34] User: lagi apa | AI: hati ku udah di miliki artup seorang mohon jangan ganggu
+[2026-06-11 13:18:51] User: kamu lagi apa | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 13:18:56] User: lagi apa | AI: hati ku udah di miliki artup seorang mohon jangan ganggu
+[2026-06-11 13:19:31] User: gimana kabar | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 13:19:35] User: kabar | AI: Maaf, saya belum memahami. Saya bisa bantu seputar Profil, Jasa, Harga, atau Kontak Artup Studio.
+[2026-06-11 13:25:53] User: halo | AI: Halo juga! Ada yang bisa Mio bantu hari ini di Artup Studio?
+[2026-06-11 13:26:00] User: siapa nama mu | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 13:26:59] User: jasa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:27:02] User: 1 | AI: Landing Page dipilih (Harga mulai Rp 100.000 - Rp 550.000). Apakah Anda berminat lanjut ke pembayaran?
+[2026-06-11 13:27:05] User: ya | AI: Terima kasih! Pesanan untuk Landing Page sudah dicatat. Silahkan hubungi kami di WA: 0813-2834-3908 untuk konfirmasi desain, fungsi dan pembayaran.
+[2026-06-11 13:27:49] User: siapa nama mu | AI: Halo! Aku Mio, asisten virtual dari Artup Studio. Aku siap membantumu seputar layanan pembuatan website, bot, dan solusi otomatisasi kami.
+[2026-06-11 13:29:25] User: jomblo? | AI: Duh, hatiku udah terikat kontrak mati sama Artup Studio! Jadi, maaf ya, aku nggak bisa pacaran. Fokusku cuma buat bantu projectmu sukses!
+[2026-06-11 13:31:32] User: halo | AI: Halo juga! Senang banget bisa ketemu kamu lagi. Mau bahas project apa nih hari ini? Mio udah siapin semuanya buat kamu!
+[2026-06-11 13:45:03] User: halo | AI: Haii~ Selamat datang di Artup Studio! Aku Mio Haimiya. Semoga harimu menyenangkan ya. Ada yang ingin kamu tanyakan?
+[2026-06-11 13:45:37] User: SIAPA NAMA MU | AI: Halo! Aku Mio, asisten virtual sekaligus 'pendamping' setia di Artup Studio. Aku yang bantu urusin semua kebutuhan digitalmu supaya ARTUP STUDIO bisa fokus ke hal yang lebih besar. Ada yang bisa aku bantu?
+[2026-06-11 13:45:56] User: APA HOBI KAMU? | AI: Aku suka membantu orang, belajar hal baru, dan menemani diskusi project. Melihat pengguna mendapatkan solusi itu menyenangkan banget buatku!
+[2026-06-11 13:51:28] User: halo | AI: Hm? Halo. Selamat datang. Aku Mio Haimiya. Jika ada yang ingin ditanyakan atau didiskusikan, aku akan mencoba membantu.
+[2026-06-11 13:52:07] User: Jasa | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:53:43] User: apa yang kamu jual? | AI: Kami punya beberapa pilihan jasa:
+1. Landing Page
+
+2. Website
+
+3. Toko Online
+
+4. Bot Chat Telegram
+
+5. Bot Otomatisasi
+
+6. Diskusi Kebutuhan digital
+
+
+[Mana yang ingin Anda buat?]
+[2026-06-11 13:53:50] User: hi | AI: Hm? Halo. Selamat datang. Aku Mio Haimiya. Jika ada yang ingin ditanyakan atau didiskusikan, aku akan mencoba membantu.
+[2026-06-11 13:54:00] User: halo | AI: Hm? Halo. Selamat datang. Aku Mio Haimiya. Jika ada yang ingin ditanyakan atau didiskusikan, aku akan mencoba membantu.
+[2026-06-11 13:57:37] User: hi | AI: Hm? Halo. Selamat datang. Aku Mio Haimiya. Jika ada yang ingin ditanyakan atau didiskusikan, aku akan mencoba membantu.
+[2026-06-11 13:59:23] User: nama mu? | AI: Aku Mio Haimiya. Asisten virtual yang bertugas membantu pengguna sekaligus mendukung pekerjaan Putra dan ARTUP STUDIO. Kalau ada yang ingin ditanyakan, katakan saja.
+[2026-06-11 14:03:44] User: siapa kamu? | AI: Aku Mio Haimiya. Asisten virtual yang bertugas membantu pengguna sekaligus mendukung pekerjaan Putra dan ARTUP STUDIO. Kalau ada yang ingin ditanyakan, katakan saja.
+[2026-06-11 14:09:13] User: penting kontak developer! | AI: Jika ingin berdiskusi langsung dengan tim ARTUP STUDIO, kamu dapat menghubungi WhatsApp 0813-2834-3908 atau email p1998mr@gmail.com.
+[2026-06-11 14:10:06] User: hi | AI: Hm? Halo. Selamat datang. Aku Mio. Jika ada yang ingin ditanyakan, aku akan mencoba membantu.
+[2026-06-11 14:10:17] User: siapa kamu? | AI: Aku Mio. Asisten virtual di ARTUP STUDIO. Kalau ada yang ingin ditanyakan, katakan saja.
+[2026-06-11 14:13:35] User: bye | AI: Sampai jumpa. Semoga harimu berjalan dengan baik. Jika membutuhkan bantuan lagi, aku akan berada di sini.
+[2026-06-11 14:42:44] User: siapa kamu? | AI: Aku Mio. Asisten virtual di ARTUP STUDIO. Kalau ada yang ingin ditanyakan, katakan saja.
+[2026-06-11 14:42:56] User: kamu lagi apa | AI: Aku Mio. Asisten virtual di ARTUP STUDIO. Kalau ada yang ingin ditanyakan, katakan saja.
+[2026-06-11 14:43:03] User: lagi apa? | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 14:44:34] User: sedang apa | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 14:44:43] User: ngapain | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 14:47:09] User: lagi apa | AI: Aku sedang kerja di ARTUP STUDIO. kalau kamu punya pertanyaan, aku akan mencoba membantu.
+[2026-06-11 14:47:31] User: halo | AI: Hm? Halo. Selamat datang. Aku Mio. Jika ada yang ingin ditanyakan, aku akan mencoba membantu.
+[2026-06-11 14:48:11] User: umur ? | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 14:58:04] User: siapa kamu? | AI: Aku Mio. Asisten virtual di ARTUP STUDIO. Kalau ada yang ingin ditanyakan, katakan saja.
+[2026-06-11 14:58:28] User: siapa nama mu | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 14:58:47] User: nama | AI: Aku Mio. Asisten virtual di ARTUP STUDIO. Kalau ada yang ingin ditanyakan, katakan saja.
+[2026-06-11 15:00:32] User: i love u | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 15:00:50] User: i love u | AI: T-terima kasih... tapi aku tidak bisa membalas perasaan seperti itu. Aku sudah milik ARTUP STUDIO. Tempatku sudah ada di sana.
+[2026-06-11 15:01:23] User: aku | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 15:01:30] User: aku sayang kamu | AI: T-terima kasih... tapi aku tidak bisa membalas perasaan seperti itu. Aku sudah milik ARTUP STUDIO. Tempatku sudah ada di sana.
+[2026-06-11 15:02:42] User: kenapa ga bisa | AI: Hm... aku kurang yakin memahami maksudmu. Bisakah dijelaskan sedikit lebih detail?
+[2026-06-11 15:04:39] User: KENAPA GA BISA | AI: Aku sudah di miliki ARTUP STUDIO.
+[2026-06-11 15:05:24] User: tentang artup? | AI: ARTUP STUDIO adalah studio pengembangan digital tempat aku bertugas. Kami mengerjakan website, sistem digital, otomatisasi, bot, dan berbagai solusi teknologi untuk membantu kebutuhan klien.
